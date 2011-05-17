@@ -19,6 +19,7 @@ Source0:	http://sourceforge.net/downloads/project/culmus/ancient_fonts/%{upstrea
 Source1:	GenerateTTF.pe
 Group:		System/Fonts/True type
 BuildArch:	noarch
+BuildRequires: fontconfig
 BuildRequires:	fontforge
 BuildRequires:	ttmkfdir
 Provides:	ancient-semitic-fonts = %{version}-%{release}
