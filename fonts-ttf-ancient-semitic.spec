@@ -3,7 +3,7 @@
 
 %define rname		ancient-semitic
 %define ver		0.06.1
-%define rel		1
+%define rel		2
 
 %define _fontdir	%{_datadir}/fonts/TTF
 
