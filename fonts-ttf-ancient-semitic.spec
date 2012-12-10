@@ -63,3 +63,14 @@ rm -rf %{buildroot}
 %defattr(-,root,root)
 %doc README LICENSE CHANGES
 %{_fontdir}/AncientSemitic
+
+
+%changelog
+* Tue May 17 2011 Funda Wang <fwang@mandriva.org> 0.06.1-2mdv2011.0
++ Revision: 675514
+- br fontconfig for fc-query used in new rpm-setup-build
+
+* Tue Nov 09 2010 Jani Välimaa <wally@mandriva.org> 0.06.1-1mdv2011.0
++ Revision: 595453
+- import fonts-ttf-ancient-semitic
+
