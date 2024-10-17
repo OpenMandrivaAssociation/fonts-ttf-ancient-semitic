@@ -13,7 +13,7 @@ Name:		fonts-ttf-%{rname}
 Version:	%{ver}
 Release:	%mkrel %{rel}
 Summary:	A collection of fonts related to the history of the Hebrew writing
-Url:		http://culmus.sourceforge.net/ancient/index.html
+Url:		https://culmus.sourceforge.net/ancient/index.html
 License:	GPLv2
 Source0:	http://sourceforge.net/downloads/project/culmus/ancient_fonts/%{upstream_name}-%{upstream-version}/%{upstream_name}-%{upstream_version}.tgz
 Source1:	GenerateTTF.pe
